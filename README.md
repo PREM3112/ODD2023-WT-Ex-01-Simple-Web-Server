@@ -44,7 +44,8 @@ class HelloHandler (BaseHTTPRequestHandler):
 ```
 
 ## OUTPUT:
-![Alt text](<web output-1.png>)
+![web output](https://github.com/PREM3112/ODD2023-WT-Ex-01-Simple-Web-Server/assets/145449383/e7322458-a0cd-4575-a9e1-a3bd9a4aa8a1)
+
 
 
 ## RESULT:
